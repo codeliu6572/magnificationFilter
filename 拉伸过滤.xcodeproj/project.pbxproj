@@ -15,6 +15,7 @@
 		68142B991C91724300DD7CC0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68142B971C91724300DD7CC0 /* LaunchScreen.storyboard */; };
 		68142BA41C91724300DD7CC0 /* ____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 68142BA31C91724300DD7CC0 /* ____Tests.m */; };
 		68142BAF1C91724300DD7CC0 /* ____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 68142BAE1C91724300DD7CC0 /* ____UITests.m */; };
+		68142BBF1C91781900DD7CC0 /* Digits.png in Resources */ = {isa = PBXBuildFile; fileRef = 68142BBE1C91781900DD7CC0 /* Digits.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		68142BAA1C91724300DD7CC0 /* 拉伸过滤UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "拉伸过滤UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		68142BAE1C91724300DD7CC0 /* ____UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "____UITests.m"; sourceTree = "<group>"; };
 		68142BB01C91724300DD7CC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		68142BBE1C91781900DD7CC0 /* Digits.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Digits.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				68142B8D1C91724300DD7CC0 /* AppDelegate.m */,
 				68142B8F1C91724300DD7CC0 /* ViewController.h */,
 				68142B901C91724300DD7CC0 /* ViewController.m */,
+				68142BBE1C91781900DD7CC0 /* Digits.png */,
 				68142B921C91724300DD7CC0 /* Main.storyboard */,
 				68142B951C91724300DD7CC0 /* Assets.xcassets */,
 				68142B971C91724300DD7CC0 /* LaunchScreen.storyboard */,
@@ -243,6 +246,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68142BBF1C91781900DD7CC0 /* Digits.png in Resources */,
 				68142B991C91724300DD7CC0 /* LaunchScreen.storyboard in Resources */,
 				68142B961C91724300DD7CC0 /* Assets.xcassets in Resources */,
 				68142B941C91724300DD7CC0 /* Main.storyboard in Resources */,
